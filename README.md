@@ -40,7 +40,7 @@
 ## 📥 التثبيت والتشغيل
 
 1. قم بتنزيل ملف الـ APK المباشر من قسم الـ Releases:
-   👉 [**تحميل ADM-v1.0.0.apk**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest/download/ADM-v1.0.0.apk)
+   👉 [**تحميل ADM-v1.1.0.apk**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest/download/ADM-v1.1.0.apk)
 2. افتح الملف واضغط على **تثبيت (Install)**.
 3. سيبدأ التطبيق بالعمل مباشرة مع كامل المميزات المتقدمة.
 
