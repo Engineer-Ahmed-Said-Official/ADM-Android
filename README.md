@@ -47,25 +47,6 @@
 
 ---
 
-## 🛠️ البناء من المصدر | Build from Source
-
-```bash
-# 1. استنساخ المستودع
-git clone https://github.com/Engineer-Ahmed-Said-Official/ADM-Android.git
-cd ADM-Android
-
-# 2. تثبيت الحزم
-flutter pub get
-
-# 3. تشغيل التطبيق في وضع التطوير
-flutter run
-
-# 4. بناء نسخة APK نهائية
-flutter build apk --release
-```
-
----
-
 ## 💖 ادعم تطوير البرنامج | Support Development
 
 إذا أعجبك البرنامج، يمكنك دعم استمرار تطويره وإضافة المزيد من الميزات:
