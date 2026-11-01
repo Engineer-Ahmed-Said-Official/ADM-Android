@@ -7,7 +7,7 @@
 تطوير وتصميم **ASM**
 
 [![Android](https://img.shields.io/badge/Android-7.0%20%7C%208%20%7C%209%20%7C%2010%20%7C%2011%20%7C%2012%20%7C%2013%20%7C%2014%20%7C%2015-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases)
-[![Version](https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge)](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases)
+[![Version](https://img.shields.io/badge/Version-1.1.0-success?style=for-the-badge)](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases)
 [![Website](https://img.shields.io/badge/Website-asm--echo.com-blue?style=for-the-badge)](https://www.asm-echo.com/)
 
 [**📥 تحميل التطبيق (Download APK)**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest) • [**الموقع الرسمي**](https://www.asm-echo.com/) • [**قناة اليوتيوب**](https://www.youtube.com/@ASM-ECHO) • [**صفحة الفيسبوك**](https://www.facebook.com/ASM0ECHO)
