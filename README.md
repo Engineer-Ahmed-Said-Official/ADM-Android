@@ -1,7 +1,7 @@
 # ⚡ ASM Download Manager (ADM) for Android
 
 <p align="center">
-  <img src="assets/icons/icon.png" width="100" height="100" alt="ADM Logo" style="border-radius: 20px;">
+  <img src="icon.png" width="100" height="100" alt="ADM Logo" style="border-radius: 20px;">
 </p>
 
 <p align="center">
@@ -44,6 +44,25 @@
 
 يمكنك تحميل ملف الـ APK المباشر من صفحة الإصدارات:
 👉 [**تحميل أحدث إصدار من Releases**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest)
+
+---
+
+## 🛠️ البناء من المصدر | Build from Source
+
+```bash
+# 1. استنساخ المستودع
+git clone https://github.com/Engineer-Ahmed-Said-Official/ADM-Android.git
+cd ADM-Android
+
+# 2. تثبيت الحزم
+flutter pub get
+
+# 3. تشغيل التطبيق في وضع التطوير
+flutter run
+
+# 4. بناء نسخة APK نهائية
+flutter build apk --release
+```
 
 ---
 
