@@ -1,69 +1,78 @@
+<div align="center">
+
 # ⚡ ASM Download Manager (ADM) for Android
 
-<p align="center">
-  <img src="icon.png" width="100" height="100" alt="ADM Logo" style="border-radius: 20px;">
-</p>
+### مدير التنزيلات المتطور والأسرع لنظام أندرويد
 
-<p align="center">
-  <b>مدير التنزيلات الاحترافي فائق السرعة لنظام أندرويد</b><br>
-  <b>Ultra-Fast, Segmented Download Manager for Android</b>
-</p>
+تطوير وتصميم **ASM**
 
-<p align="center">
-  <a href="https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Engineer-Ahmed-Said-Official/ADM-Android?style=for-the-badge&color=0078D6" alt="Latest Release">
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
-</p>
+[![Android](https://img.shields.io/badge/Android-7.0%20%7C%208%20%7C%209%20%7C%2010%20%7C%2011%20%7C%2012%20%7C%2013%20%7C%2014%20%7C%2015-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge)](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases)
+[![Website](https://img.shields.io/badge/Website-asm--echo.com-blue?style=for-the-badge)](https://www.asm-echo.com/)
+
+[**📥 تحميل التطبيق (Download APK)**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest) • [**الموقع الرسمي**](https://www.asm-echo.com/) • [**قناة اليوتيوب**](https://www.youtube.com/@ASM-ECHO) • [**صفحة الفيسبوك**](https://www.facebook.com/ASM0ECHO)
+
+</div>
 
 ---
 
-## 🌟 نظرة عامة | Overview
+## 📖 حول البرنامج
 
-تطبيق **ASM Download Manager (ADM)** هو مدير تنزيلات متطور مصمم خصيصاً لأجهزة أندرويد ليوفر أقصى سرعة تحميل ممكنة عبر تقنية تقسيم الملفات وتعدد الاتصالات (Multi-threaded Segmented Downloading)، مع واجهة عربية حديثة ودعم كامل للعمل المستقر في الخلفية واستئناف التنزيلات غير المكتملة.
+**ASM Download Manager (ADM) لنظام أندرويد** هو تطبيق إدارة تنزيلات متكامل تم تصميمه ليقدم أعلى سرعة تحميل ممكنة على الهواتف الذكية مع استقرار تام وخفة فائقة في استهلاك البطارية والموارد.
 
-**ASM Download Manager (ADM)** is an advanced, high-performance download manager designed for Android, providing maximum download speeds through multi-connection segmentation, smart queue management, background downloading, and seamless auto-updates.
-
----
-
-## ✨ المميزات الرئيسية | Key Features
-
-* 🚀 **تسريع التحميل عبر الاتصالات المتعددة:** دعم تقسيم الملف الواحد إلى عدة اتصالات متوازية (تصل إلى 32 خيطاً) لمضاعفة سرعة التنزيل واستغلال كامل سرعة الإنترنت.
-* ⏸️ **استئناف التنزيلات المنقطعة:** إمكانية إيقاف واستئناف التنزيلات في أي وقت دون فقدان البيانات المحملة مسبقاً.
-* 🔋 **استقرار تام بالخلفية:** دعم خدمة العمل بالخلفية المتقدمة لضمان استمرار التنزيلات حتى عند إغلاق الشاشة أو قفل الهاتف.
-* 🔔 **شريط إشعارات تفاعلي حي:** عرض سرعة التنزيل والنسبة المئوية وشريط التقدم في لوحة إشعارات أندرويد في الوقت الفعلي.
-* 🎨 **تصميم عصري ودعم الوضعين (Dark & Light):** مظهر داكن أنيق مستوحى من هوية ADM ومظهر فاتح متناسق مع حفظ الإعدادات تلقائياً.
-* 🔄 **تحديث تلقائي ذاتي (In-App Self-Update):** فحص التحديثات وتنزيل وتثبيت أحدث الإصدارات مباشرة من داخل التطبيق بنقرة زر واحدة.
-* 📁 **تصنيف تلقائي للملفات:** فرز الملفات فورياً حسب النوع (فيديو، صوتيات، مستندات، ملفات مضغوطة، برامج).
-* 📋 **التقاط الروابط الذكي:** الكشف التلقائي عن الروابط المنسوخة من الحافظة ومشاركتها مباشرة من المتصفحات والتطبيقات.
+يتميز التطبيق بواجهة عصرية فائقة السلاسة تدعم الوضعين الداكن والفاتح، ونظام متقدم لتسريع التنزيلات عبر الاتصالات المتعددة المتوازية، واستئناف الملفات المنقطعة، وخدمة خلفية مستقرة تمنع إيقاف التحميل عند قفل الشاشة، بالإضافة إلى إشعارات حية توضح سرعة ونسبة التقدم في الوقت الفعلي.
 
 ---
 
-## 📥 التحميل والتثبيت | Download & Install
+## ✨ المميزات الرئيسية
 
-يمكنك تحميل ملف الـ APK المباشر من صفحة الإصدارات:
-👉 [**تحميل أحدث إصدار من Releases**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest)
-
----
-
-## 💖 ادعم تطوير البرنامج | Support Development
-
-إذا أعجبك البرنامج، يمكنك دعم استمرار تطويره وإضافة المزيد من الميزات:
-
-* **PayPal:** [paypal.me/aezr555](https://paypal.me/aezr555)
-* **InstaPay:** `ahmedsaid131199@instapay`
+* 🚀 **أقصى سرعة تحميل**: تقسيم الملف الواحد إلى عدة اتصالات متوازية (تصل إلى 32 خيطاً) لتحقيق أقصى استغلال لسرعة الإنترنت.
+* ⏸️ **استئناف التنزيلات المنقطعة**: إمكانية إيقاف واستئناف التنزيلات في أي وقت دون فقدان البيانات أو إعادة التحميل من البداية.
+* 🔋 **استقرار تام بالخلفية**: دعم خدمة العمل بالخلفية المتقدمة لضمان استمرار التحميل بكفاءة حتى عند إغلاق الشاشة أو قفل الهاتف.
+* 🔔 **شريط إشعارات تفاعلي حي**: عرض سرعة التنزيل اللحظية والنسبة المئوية وشريط التقدم في لوحة إشعارات الهاتف.
+* 🌙 **دعم الوضعين الداكن والفاتح (Dark & Light Mode)**: تصميم مريح للعين ومتناسق بالكامل مع حفظ التفضيلات تلقائياً.
+* 🔄 **تحديثات تلقائية ذاتية (In-App Self-Update)**: ميزة فحص وتنزيل وتثبيت التحديثات الجديدة بضغطة زر واحدة مباشرة من داخل التطبيق.
+* 📁 **تصنيف تلقائي للملفات**: فرز وتنظيم التنزيلات تلقائياً حسب نوع الملف (فيديو، صوتيات، مستندات، ملفات مضغوطة، برامج).
+* 📋 **التقاط الروابط الذكي**: إمكانية إضافة التحميلات عبر اللصق التلقائي من الحافظة أو عبر زر المشاركة (Share) من أي متصفح.
 
 ---
 
-## 🌐 تابعنا | Follow Us
+## 📥 التثبيت والتشغيل
 
-* **الموقع الرسمي:** [www.asm-echo.com](https://www.asm-echo.com/)
-* **YouTube:** [@ASM-ECHO](https://www.youtube.com/@ASM-ECHO)
-* **Facebook:** [ASM0ECHO](https://www.facebook.com/ASM0ECHO)
+1. قم بتنزيل ملف الـ APK المباشر من قسم الـ Releases:
+   👉 [**تحميل ADM-v1.0.0.apk**](https://github.com/Engineer-Ahmed-Said-Official/ADM-Android/releases/latest/download/ADM-v1.0.0.apk)
+2. افتح الملف واضغط على **تثبيت (Install)**.
+3. سيبدأ التطبيق بالعمل مباشرة مع كامل المميزات المتقدمة.
 
 ---
 
-## 📄 الترخيص | License
+## 📱 متطلبات التشغيل
 
-هذا المشروع مرخص تحت رخصة [MIT License](LICENSE).
+* **نظام التشغيل**: Android 7.0 (Nougat) أو أي إصدار أحدث (حتى Android 15+).
+* **الذاكرة**: خفيف جداً ومُحسّن للعمل بأقل استهلاك للذاكرة العشوائية والبطارية.
+* **المساحة المطلوبة**: 25 ميجابايت تقريباً.
+
+---
+
+## 🤝 الدعم والمساهمة
+
+إذا كنت ترغب في دعم استمرارية وتطوير المشروع:
+
+* 💳 **PayPal**: [paypal.me/aezr555](https://paypal.me/aezr555)
+* 📱 **InstaPay**: `ahmedsaid131199@instapay`
+
+---
+
+## 🌐 التواصل والمتابعة
+
+* **الموقع الرسمي**: [https://www.asm-echo.com](https://www.asm-echo.com/)
+* **صفحة الفيسبوك**: [https://www.facebook.com/ASM0ECHO](https://www.facebook.com/ASM0ECHO)
+* **قناة اليوتيوب**: [https://www.youtube.com/@ASM-ECHO](https://www.youtube.com/@ASM-ECHO)
+
+---
+
+<div align="center">
+
+© 2026 **ASM** - جميع الحقوق محفوظة.
+
+</div>
